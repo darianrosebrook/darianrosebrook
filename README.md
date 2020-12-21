@@ -15,39 +15,40 @@ I have been able to help a handful of companies over the last few years by worki
 I would like to help a great design team ship highly intuitive products not just for the company, but for the community of people they're there to help.
 
 I have a personal website at [darianrosebrook.com](http://darianrosebrook.com) or you can check out my portfolio highlights below.
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-<div>
-  <h3> What I'm looking for in a new design role:</h3>
-<ul>
-  <li>Product design</li>
-  <li>User experience design</li>
-  <li>Design leadership</li>
-  <li>Design process work</li>
-  <li>Remote work options</li>
-  <li>Feature development</li>
-  <li>Customer engagement and research</li>
-  <li>Experience design and storytelling</li>
-</ul>
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <h3> What I'm looking for in a new design role:</h3>
+    <ul>
+      <li>Product design</li>
+      <li>User experience design</li>
+      <li>Design leadership</li>
+      <li>Design process work</li>
+      <li>Remote work options</li>
+      <li>Feature development</li>
+      <li>Customer engagement and research</li>
+      <li>Experience design and storytelling</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>Utilizing skills around</h3>
+    <ul>
+      <li>Design strategy</li>
+      <li>Design systems</li>
+      <li>Coaching and mentorship</li>
+      <li>Product management</li>
+      <li>Interaction design</li>
+      <li>Interface design</li>
+      <li>Component design</li>
+      <li>Prototyping</li>
+      <li>Multidisciplinary projects</li>
+      <li>Customer research</li>
+      <li>User centered stories</li>
+      <li>Iterative design</li>
+    </ul>
+  </div> 
 </div>
 
-<div>
-  <h3>Utilizing skills around</h3>
-  <ul>
-    <li>Design strategy</li>
-    <li>Design systems</li>
-    <li>Coaching and mentorship</li>
-    <li>Product management</li>
-    <li>Interaction design</li>
-    <li>Interface design</li>
-    <li>Component design</li>
-    <li>Prototyping</li>
-    <li>Multidisciplinary projects</li>
-    <li>Customer research</li>
-    <li>User centered stories</li>
-    <li>Iterative design</li>
-  </ul>
-</div> 
-</div>
 ### You can find me at @darianrosebrook on:
 
 **[Twitter**
@@ -77,10 +78,6 @@ Most recently, I've been helping the Microsoft Edge team work on improving the D
 As a designer, I am adept at handling both the user experience of digital products and the brand experience of a product's design ecosystem.
 
 I couldn't find a better way to marry the skills I learned as a UX designer and my passion for creating meaningful brand experiences both on and off screens.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/012ab75d-d36c-4d04-8f6e-e6f011e7b3c5/42161339_2128045420580167_4387226478729589420_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/012ab75d-d36c-4d04-8f6e-e6f011e7b3c5/42161339_2128045420580167_4387226478729589420_n.jpg)
-
-Shot from a UX Design Sprint with a client
 
 ## Popular design articles that I've written
 
