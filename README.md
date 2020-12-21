@@ -15,33 +15,37 @@ I have been able to help a handful of companies over the last few years by worki
 I would like to help a great design team ship highly intuitive products not just for the company, but for the community of people they're there to help.
 
 I have a personal website at [darianrosebrook.com](http://darianrosebrook.com) or you can check out my portfolio highlights below.
+<div>
+  <h3> What I'm looking for in a new design role:</h3>
+<ul>
+  <li>Product design</li>
+  <li>User experience design</li>
+  <li>Design leadership</li>
+  <li>Design process work</li>
+  <li>Remote work options</li>
+  <li>Feature development</li>
+  <li>Customer engagement and research</li>
+  <li>Experience design and storytelling</li>
+</ul>
+</div>
 
-### **What I'm looking for in a new design role:**
-
-- Product design
-- User experience design
-- Design leadership
-- Design process work
-- Remote work options
-- Feature development
-- Customer engagement and research
-- Experience design and storytelling
-
-### **Utilizing skills around**
-
-- Design strategy
-- Design systems
-- Coaching and mentorship
-- Product management
-- Interaction design
-- Interface design
-- Component design
-- Prototyping
-- Multidisciplinary projects
-- Customer research
-- User centered stories
-- Iterative design
-
+<div>
+  <h3>Utilizing skills around</h3>
+  <ul>
+    <li>Design strategy</li>
+    <li>Design systems</li>
+    <li>Coaching and mentorship</li>
+    <li>Product management</li>
+    <li>Interaction design</li>
+    <li>Interface design</li>
+    <li>Component design</li>
+    <li>Prototyping</li>
+    <li>Multidisciplinary projects</li>
+    <li>Customer research</li>
+    <li>User centered stories</li>
+    <li>Iterative design</li>
+  </ul>
+</div> 
 ### You can find me at @darianrosebrook on:
 
 **[Twitter**
@@ -59,63 +63,6 @@ I have a personal website at [darianrosebrook.com](http://darianrosebrook.com) o
 
 [Previous Work Case Studies](https://www.notion.so/ddbcfb73943c4fdf88cfee922d3bc5c8)
 
-## Out of context design highlights
-
-### [Documented work is in the past work tiles above](https://www.notion.so/somagnetic/ddbcfb73943c4fdf88cfee922d3bc5c8?v=907cc9853cd7420ebb31a1a5a28baff4)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f760c436-3a05-4613-872f-9a06dbf81ad5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f760c436-3a05-4613-872f-9a06dbf81ad5/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f743c2c-1573-4d68-9c26-a70a3a85d9b9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f743c2c-1573-4d68-9c26-a70a3a85d9b9/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ec9e4a9-9d2a-4e23-b909-373b6db0b5d4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ec9e4a9-9d2a-4e23-b909-373b6db0b5d4/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/207f7aa7-5885-452b-905f-f7e39fdf8af4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/207f7aa7-5885-452b-905f-f7e39fdf8af4/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ea3c7de-f7d8-4b89-b0c6-e64c10603e93/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ea3c7de-f7d8-4b89-b0c6-e64c10603e93/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ee2da58-7d90-4839-8da8-8b75f0569053/A5F1EDF2-3E35-4344-8E3F-6650B27B87C9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ee2da58-7d90-4839-8da8-8b75f0569053/A5F1EDF2-3E35-4344-8E3F-6650B27B87C9.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f803dc9-86af-47d7-b742-4ed5afcf749b/67583461_664729843936307_3680638493317380984_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f803dc9-86af-47d7-b742-4ed5afcf749b/67583461_664729843936307_3680638493317380984_n.jpg)
-
-[https://www.instagram.com/p/B19UaClh34K/](https://www.instagram.com/p/B19UaClh34K/)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/baddcff4-ab88-445d-a9d1-f80860a567c4/83626956_162031328426656_54629536033220679_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/baddcff4-ab88-445d-a9d1-f80860a567c4/83626956_162031328426656_54629536033220679_n.jpg)
-
-[https://www.instagram.com/p/B19UaClh34K/](https://www.instagram.com/p/B709j37h46K/)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d761b45-0b80-4e69-9a3f-ad04ce572d36/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d761b45-0b80-4e69-9a3f-ad04ce572d36/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13c05ef0-2be2-4d4b-960b-58aa5f9dc067/50668293_148418526155396_8646360148739764279_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13c05ef0-2be2-4d4b-960b-58aa5f9dc067/50668293_148418526155396_8646360148739764279_n.jpg)
-
-[https://www.instagram.com/p/BtzqV4an3tQ/](https://www.instagram.com/p/BtzqV4an3tQ/)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4993427-389f-4de4-ad31-83f820f91e05/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4993427-389f-4de4-ad31-83f820f91e05/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a10e3319-e16f-4cef-a489-fd35c97d45da/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a10e3319-e16f-4cef-a489-fd35c97d45da/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a94e5508-400d-41d7-a864-9c600be01620/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a94e5508-400d-41d7-a864-9c600be01620/Untitled.png)
-
-[https://dribbble.com/shots/6360313-Full-page-desktop-view-of-The-Glass-Frontier-site](https://dribbble.com/shots/6360313-Full-page-desktop-view-of-The-Glass-Frontier-site)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fa799c4-bc74-457a-9c65-9249d23534ed/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fa799c4-bc74-457a-9c65-9249d23534ed/Untitled.png)
-
-[https://dribbble.com/shots/5253186-Userflow](https://dribbble.com/shots/5253186-Userflow)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14ed5a7d-0eba-4360-af1e-7db6c0a9dd6e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14ed5a7d-0eba-4360-af1e-7db6c0a9dd6e/Untitled.png)
-
-[https://dribbble.com/shots/5257645-Brand-guideline-pages-for-logo-usage](https://dribbble.com/shots/5257645-Brand-guideline-pages-for-logo-usage)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64347be4-560b-41dd-b43e-6e5d7c7a362b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64347be4-560b-41dd-b43e-6e5d7c7a362b/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e050af4c-08b1-4f76-9cfb-9ea5c24afa51/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e050af4c-08b1-4f76-9cfb-9ea5c24afa51/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69064f52-fb45-4dfe-899c-a1a0fe4f06d9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69064f52-fb45-4dfe-899c-a1a0fe4f06d9/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de4aca97-af0c-4eea-9629-23fb75f5262e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de4aca97-af0c-4eea-9629-23fb75f5262e/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/475d98fc-5bd0-4c50-a20a-5b409c6bafa0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/475d98fc-5bd0-4c50-a20a-5b409c6bafa0/Untitled.png)
-
-[https://fast.design](https://fast.design) 
 
 ## About me
 
