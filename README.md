@@ -15,7 +15,7 @@ I have been able to help a handful of companies over the last few years by worki
 I would like to help a great design team ship highly intuitive products not just for the company, but for the community of people they're there to help.
 
 I have a personal website at [darianrosebrook.com](http://darianrosebrook.com) or you can check out my portfolio highlights below.
-<div style="display: grid; grid-template: 1fr 1fr;">
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
 <div>
   <h3> What I'm looking for in a new design role:</h3>
 <ul>
