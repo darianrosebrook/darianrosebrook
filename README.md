@@ -98,7 +98,7 @@ I couldn't find a better way to marry the skills I learned as a UX designer and 
 ### Interviews
 
 - Been [interviewed by Chris Green on This Design Life](https://www.thisdesignlife.net/darian-rosebrook-interview/) about how to get started in brand identity design
-- Been [interviewed by Tommy Mason on Scamp Chats](https://scamp.studio/scampchat/2019/7/24/darianrosebrook) about how to get started in product design
+- Been [interviewed by Tommy Mason on Scamp Chats](https://studiomason.co.uk/masonand/darian-rosebrook) about how to get started in product design
 - Been [interviewed by Connor Fowler on The Fowler Hour's Podcast](https://www.youtube.com/watch?v=WR-huVjQmcw) about building a design community from scratch
 
 ### Features
