@@ -1,4 +1,4 @@
-![twitter banner image](https://pbs.twimg.com/profile_banners/1606559688/1600460374/1500x500)
+![twitter banner image](https://pbs.twimg.com/profile_banners/1606559688/1624755523/1500x500)
 ## Hey there, I'm Darian 👋🏼
 ### I'm a product designer just north of the Seattle area.
 
