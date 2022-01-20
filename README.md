@@ -1,12 +1,10 @@
 ![twitter banner image](https://pbs.twimg.com/profile_banners/1606559688/1624755523/1500x500)
 ## Hey there, I'm Darian 👋🏼
-### I'm a product designer just north of the Seattle area.
+### I'm a product designer in the Portland, Oregon area.
 
 - [Resume](https://docs.google.com/document/d/1HB1Aed4YvFHutycgpkgMRxdgt6WMvv1VD4CEPrZEf0o/edit?usp=sharing)
 
-- [Seattle, WA](https://www.google.com/maps/place/Seattle,+WA/)
-
-I work with companies to help them focus on improving the end to end experience a person will have when using a product or service.
+I work with companies to help them focus on improving the experience of the design system and end to end experience when using a product or service.
 
 I have been able to help a handful of companies over the last few years by working cross collaboratively on things like user journeys, product roadmaps, design systems, and other deliverables.
 
