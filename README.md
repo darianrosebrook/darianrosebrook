@@ -1,6 +1,6 @@
 ![twitter banner image](https://pbs.twimg.com/profile_banners/1606559688/1624755523/1500x500)
 ## Hey there, I'm Darian 👋🏼
-### I'm a product designer in the Portland, Oregon area.
+### I'm a product designer focused on design systems in the Portland, Oregon area.
 
 - [Resume](https://docs.google.com/document/d/1HB1Aed4YvFHutycgpkgMRxdgt6WMvv1VD4CEPrZEf0o/edit?usp=sharing)
 
