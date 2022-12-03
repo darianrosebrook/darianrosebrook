@@ -1,4 +1,4 @@
-![twitter banner image](https://pbs.twimg.com/profile_banners/1606559688/1624755523/1500x500)
+![image](https://user-images.githubusercontent.com/16178285/205413615-cccf7a62-d15f-4af4-9f2c-76df6367ced9.png)
 ## Hey there, I'm Darian 👋🏼
 ### I'm a product designer focused on design systems in the Portland, Oregon area.
 
