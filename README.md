@@ -2,7 +2,7 @@
 ## Hey there, I'm Darian 👋🏼
 ### I'm a product designer focused on design systems in the Portland, Oregon area.
 
-- [Resume](https://docs.google.com/document/d/1HB1Aed4YvFHutycgpkgMRxdgt6WMvv1VD4CEPrZEf0o/edit?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1h2QH7K7153QGbW59CHWWt07Dzhgzst3a/view?usp=sharing)
 
 I work with companies to help them focus on improving the experience of the design system and end to end experience when using a product or service.
 
