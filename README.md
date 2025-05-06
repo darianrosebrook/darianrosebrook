@@ -1,83 +1,77 @@
 ![image](https://user-images.githubusercontent.com/16178285/205413615-cccf7a62-d15f-4af4-9f2c-76df6367ced9.png)
-## Hey there, I'm Darian 👋🏼
-### I'm a product designer focused on design systems in the Portland, Oregon area.
+## Hey there, I'm Darian 👋🏼 
 
-- [Resume](https://drive.google.com/file/d/1h2QH7K7153QGbW59CHWWt07Dzhgzst3a/view?usp=sharing)
+### Staff Design Technologist · Systems Thinker · Toolmaker for Designers and Developers
 
-I work with companies to help them focus on improving the experience of the design system and end to end experience when using a product or service.
+Over the past decade, I’ve helped teams at eBay, Microsoft, Nike, Venmo, and others solve large-scale design system and product design challenges. My work bridges the gap between design and engineering—with a focus on building scalable systems, developer/designer tooling, and interaction-rich experiences that teach as much as they execute.
 
-I have been able to help a handful of companies over the last few years by working cross collaboratively on things like user journeys, product roadmaps, design systems, and other deliverables.
+Lately, I’ve been creating tools and documentation to help teams think more clearly about their systems—from design tokens to typography anatomy to Radix-style component libraries across Web, iOS, and Android. I believe design systems should not only scale, but teach—and that documentation should be interactive, accessible, and deeply composable.
 
-**I'm currently seeking my next opportunity** as a product designer.
+I’m not actively job seeking, but I’m always excited to connect with folks working on challenging design infrastructure, interaction design tooling, or cross-functional education. If you're solving deep product or systems problems and need someone who designs with engineers and codes with designers—I’m your person.
 
-I would like to help a great design team ship highly intuitive products not just for the company, but for the community of people they're there to help.
+You can explore some of my work, writing, and projects at [darianrosebrook.com](http://darianrosebrook.com).
+ 
+---
 
-I have a personal website at [darianrosebrook.com](http://darianrosebrook.com) or you can check out my portfolio highlights below.
-<div style="display: flex; flex-direction: row;">
-  <div>
-    <h3> What I'm looking for in a new design role:</h3>
-    <ul>
-      <li>Product design</li>
-      <li>User experience design</li>
-      <li>Design leadership</li>
-      <li>Design process work</li>
-      <li>Remote work options</li>
-      <li>Feature development</li>
-      <li>Customer engagement and research</li>
-      <li>Experience design and storytelling</li>
-    </ul>
-  </div>
+## What I Focus On  
 
-  <div>
-    <h3>Utilizing skills around</h3>
-    <ul>
-      <li>Design strategy</li>
-      <li>Design systems</li>
-      <li>Coaching and mentorship</li>
-      <li>Product management</li>
-      <li>Interaction design</li>
-      <li>Interface design</li>
-      <li>Component design</li>
-      <li>Prototyping</li>
-      <li>Multidisciplinary projects</li>
-      <li>Customer research</li>
-      <li>User centered stories</li>
-      <li>Iterative design</li>
-    </ul>
-  </div> 
-</div>
+* **Cross-Platform Design Systems Architecture**
+  Helping teams build resilient design foundations that scale across Web, iOS, and Android with consistency and flexibility.
 
-### You can find me at @darianrosebrook on:
+* **Design-to-Code Pipelines and Token Synchronization**
+  Automating the connection between design and engineering through token sync tools, implementation-ready component libraries, and developer-aligned design specs.
 
-**[Twitter**
-@darianrosebrook](https://twitter.com/darianrosebrook)
+* **Tooling that Empowers, Not Just Enables**
+  Building plugins, internal tools, and interaction models that reduce friction *and* teach the thinking behind the system.
 
-**[LinkedIn](https://linkedin.com/in/darianrosebrook)**
-[@darianrosebrook](https://linkedin.com/in/darianrosebrook)
+* **Interactive Documentation and Blueprint-Based Learning**
+  Designing documentation experiences that grow with your team—replacing static specs with hands-on guidance, visual scaffolds, and in-context insights.
 
-**[Dribbble](https://dribbble.com/darianrosebrook)**
-[@darianrosebrook](https://dribbble.com/darianrosebrook)
+* **Accessibility, Color Contrast, and Type Fidelity**
+  Working at the intersection of aesthetics and inclusivity—leveraging modern models like APCA, variable fonts, and type tooling to create accessible, expressive systems.
 
-### **If you'd like to talk about working with me, feel free to reach out:**
+* **Typographic Tooling and Visual Infrastructure**
+  Developing canvas-based inspection tools and font metric analyzers to help designers and developers reason about type anatomy with clarity.
 
-→ [hello@darianrosebrook.](mailto:hello@darianrosebrook.com?subject=%F0%9F%91%8B%20Hey%2C%20let's%20work%20together!&body=Hey%2C%20I%20saw%20your%20short%20portfolio%20online%20and%20thought%20I%20should%20reach%20out.%0D%0A%0D%0AI%20would%20like%20to%20talk%20to%20you%20about%20%5Bthing%5D.)[com](mailto:hello@darianrosebrook.com?subject=%F0%9F%91%8B%20Hey%2C%20let's%20chat!&body=Hey%2C%20I%20saw%20your%20short%20portfolio%20online%20and%20thought%20I%20should%20reach%20out.%0D%0A%0D%0AI%20would%20like%20to%20talk%20to%20you%20about%20%5Bthing%5D.) ←
+* **Mentorship Through Systems and Language**
+  Whether through writing, plugins, or pattern documentation, I aim to build systems that coach and scale shared understanding.
+ 
+---
 
-[Previous Work Case Studies](https://www.notion.so/ddbcfb73943c4fdf88cfee922d3bc5c8)
+## Highlights
 
+* **Cut implementation times from weeks to hours**
+  Built tools at eBay and Nike that connected design and engineering, reducing component release time by over 90% and eliminating key friction in naming, theming, and token sync.
 
-## About me
+* **Created and scaled foundational libraries**
+  Co-led Nike’s Podium Foundations Library and eBay’s token/component architecture, feeding multiple teams across enterprise and consumer-facing products.
 
-I have worked as a consultant and contractor on multiple branding and user experience projects. I have found that both compliment each other, like two halves of a company. Making sure that the people have a good experience is good branding, and having good branding can lead to great experiences.
+* **Built dashboards that reveal the health of your design system**
+  At Verizon, I designed and built a real-time analytics platform for Figma and GitLab that helped design leadership monitor adoption, gaps, and investment priorities across the organization.
 
-I write and teach designers how to build better design processes and focus on helping the community as a whole get better by helping designers understand business.
+* **Taught systems through tools**
+  Developed plugins like “Designer’s Definition of Done” and interactive component blueprints that guide designers *as they work*, raising system literacy and confidence across teams.
 
-Most recently, I've been helping the Microsoft Edge team work on improving the Developer Experiences of our developer tools and scaling  the internal Product Design Process.
+* **Improved developer tooling UX for Microsoft Edge**
+  Created debugging tools for web developers, including 3D DOM inspection and font diagnostic features, helping elevate Edge's utility for a core technical audience.
 
-As a designer, I am adept at handling both the user experience of digital products and the brand experience of a product's design ecosystem.
+* **Led from within cross-functional squads**
+  I don’t just “hand off” to devs—I embed, align, and scale. My hybrid background allows me to function as both product designer and design systems engineer, depending on what’s needed most.
 
-I couldn't find a better way to marry the skills I learned as a UX designer and my passion for creating meaningful brand experiences both on and off screens.
+* **Recognized voice in design education and community**
+  Through podcasts, long-form articles, and design communities, I’ve mentored, taught, and influenced thousands of designers navigating the transition to systems thinking and design ops roles.
+ 
+---
 
-## Popular design articles that I've written
+## Still Curious?
+
+Explore my writing, tools, and interviews via:
+[LinkedIn](https://linkedin.com/in/darianrosebrook) · [Twitter](https://twitter.com/darianrosebrook) · [YouTube](https://www.youtube.com/@darian.rosebrook)  · [Articles](https://darianrosebrook.com/articles) 
+Or reach out: [hello@darianrosebrook.com](mailto:hello@darianrosebrook.com)
+
+--- 
+
+## Other popular design articles that I've written
 
 [Design Principle 4: Typefaces and how to use them | Compass of Design Community](https://compassofdesign.com/articles/design-principle-4-typefaces-and-how-to-use-them)
 
