@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/16178285/205413615-cccf7a62-d15f-4af4-9f2c-76df6367ced9.png)
 ## Hey there, I'm Darian 👋🏼 
 
-### Staff Design Technologist · Systems Thinker · Toolmaker for Designers and Developers
+### Staff Design Technologist · Design Systems Thinker · Creating custom tools for Designers and Developers
 
 Over the past decade, I’ve helped teams at eBay, Microsoft, Nike, Venmo, and others solve large-scale design system and product design challenges. My work bridges the gap between design and engineering—with a focus on building scalable systems, developer/designer tooling, and interaction-rich experiences that teach as much as they execute.
 
